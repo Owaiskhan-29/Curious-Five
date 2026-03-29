@@ -1,3 +1,3 @@
 # Curious-Five
-#prpject for meta
+#project for meta
 Hackathon Repository
